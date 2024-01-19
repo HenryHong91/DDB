@@ -1,0 +1,4 @@
+#root {
+  @apply bg-slate-200;
+  @apply flex justify-center items-center;
+}
