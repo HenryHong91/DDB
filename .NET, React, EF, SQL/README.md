@@ -1,6 +1,10 @@
-Back End- .NET, Entity Framework , SQL. 
+# Customer Management Application
 
-Front End- React.js
-.
+This is a web-based customer management system. The frontend is developed using React, and the backend is implemented as an API using ASP.NET Core and Entity Framework for SQL database integration.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryHong91)](https://github.com/anuraghazra/github-readme-stats)
+## Technology Stack
+
+- **Frontend:** React
+- **Backend:** ASP.NET Core
+- **Database:** SQL (utilizing Entity Framework)
+
