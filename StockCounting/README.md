@@ -11,9 +11,8 @@ The main objectives of the project include:
 - Comparing actual inventory with system inventory.
 
 ### Research & Documentation
-Prior to development, a thorough pre-research was conducted based on the client's current situation and objectives. Please refer to the provided [documentation](#) for more details.
+Prior to development, a thorough pre-research was conducted based on the client's current situation and objectives. Please refer to the provided [Stock Counting](https://github.com/HenryHong91/Projects_/blob/main/StockCounting/StockCounting.pdf.pdf) for more details.
 
-Check out the [PDF Documentation](https://github.com/HenryHong91/Projects_/blob/main/StockCounting/StockCounting.pdf.pdf) for detailed information and usage instructions.
 
 ### Technology Stack
 
