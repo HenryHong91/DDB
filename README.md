@@ -4,7 +4,7 @@
 </div>
 
 ## ❓ What is this repository for?   
-- **This is Project Repository for My Projects and Continuous Improvement** 
+**This is Project Repository for My Projects and Continuous Improvement** 
 - Feel free to explore the different projects within this repository 
 - Each project folder may contain its own README file with specific instructions, details.
   
