@@ -1,4 +1,6 @@
 Demo : https://henrystockcounter.netlify.app/
 
 
-[StockCounting.pdf](https://github.com/HenryHong91/Projects_/files/14035386/StockCounting.pdf.pdf)
+## Documentation
+
+Check out the [PDF Documentation](https://github.com/HenryHong91/Projects_/blob/main/StockCounting/StockCounting.pdf.pdf) for detailed information and usage instructions.
