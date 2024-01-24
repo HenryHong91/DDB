@@ -4,7 +4,7 @@ This is a web-based customer management system. The frontend is developed using 
 
 ## Technology Stack
 
-- **Frontend:** React
+- **Frontend:** React, TailwindCSS,Modal
 - **Backend:** ASP.NET Core
 - **Database:** SQL (utilizing Entity Framework)
 
