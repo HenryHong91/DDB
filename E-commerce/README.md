@@ -27,4 +27,4 @@ Communicating with customers and conducting market research are important aspect
    * FIrebase RealTime database
    * TailwindCSS
    * Cloudnary
-   
+  .
