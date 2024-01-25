@@ -26,5 +26,3 @@ Prior to development, a thorough pre-research was conducted based on the client'
 - Google Sheets
   - Advantage: Easy sharing, management, and evaluation of tasks before uploading as CSV files.
   - Finalized CSV files are then uploaded to serve as master data.
-
-
