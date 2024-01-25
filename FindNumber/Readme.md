@@ -1,4 +1,6 @@
-# FindNumber - Windows Form App (.NET Framework)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> 
+
+# FindNumber - Windows Form App (.NET Framework)
   
 
 ## Development Environment
