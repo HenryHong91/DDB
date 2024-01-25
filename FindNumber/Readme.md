@@ -45,10 +45,7 @@
 
 2. **Install:**
    - After downloading, unzip the file.
-   - Run the setup application to install FindNumber - Windows Form App (.NET Framework).
-
-
-
+   - Run the setup application to install FindNumber - Windows Form App (.NET Framework)..
 
 
 
