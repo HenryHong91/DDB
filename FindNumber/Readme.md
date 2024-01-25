@@ -8,7 +8,7 @@
 
 ## How to Play
 
--The goal of the application is to guess a randomly generated number within a specified range. Users have a total of 10 chances to guess the correct number.
+- The goal of the application is to guess a randomly generated number within a specified range. Users have a total of 10 chances to guess the correct number.
 
   
 1. **Start the Game:**
