@@ -1,9 +1,14 @@
-# FindNumber - Windows Form App (.NET Framework)  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+# FindNumber - Windows Form App (.NET Framework)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> 
+  
 
-This is a simple Windows Form application developed with the .NET Framework. The goal of the application is to guess a randomly generated number within a specified range. Users have a total of 10 chances to guess the correct number.
+## Development Environment
+- This application was Windows Form application developed with the .NET Framework
 
 ## How to Play
 
+-The goal of the application is to guess a randomly generated number within a specified range. Users have a total of 10 chances to guess the correct number.
+
+  
 1. **Start the Game:**
    - Click the "Start" button to initiate the game.
    - The application will generate a random number within the range of 1 to 100.
@@ -15,14 +20,15 @@ This is a simple Windows Form application developed with the .NET Framework. The
      - Hard: 2 hints available.
 
 3. **Guess the Number:**
-   - Enter your guess into the provided text box and click the "Submit" button.
-   - Receive hints (up or down) based on your guess.
+   - Enter your guess into the provided text box and click.
+
 
 4. **Win or Lose:**
    - If your guess matches the random number, you win!
    - You have a total of 10 chances. If you exhaust all chances without guessing correctly, you lose.
 
 ## Hints
+- Receive hints (up or down) based on your guess.
 - The application provides hints to guide your guesses.
 - In Easy mode, you get 5 hints. In Normal mode, you get 3 hints. In Hard mode, you get 2 hints.
 - Hints include whether the correct number is higher ("UP") or lower ("DOWN") than your guess.
@@ -39,8 +45,7 @@ This is a simple Windows Form application developed with the .NET Framework. The
    - After downloading, unzip the file.
    - Run the setup application to install FindNumber - Windows Form App (.NET Framework).
 
-## Development Environment
-- This application was developed using the .NET Framework.
+
 
 
 
