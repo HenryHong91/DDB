@@ -11,6 +11,6 @@ https://henryhong91.github.io/CommonGround/
 
 # Technologies   
    * TypeScript
-   * CSS
+   * CSS.
 
    
