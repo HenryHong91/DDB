@@ -3,6 +3,7 @@
 
 ## Demo : https://dashboard-henryhong.netlify.app/
 
+
 ### Purpose
 * The E-commerce Dashboard is designed to provide essential reports to various stakeholders involved in an e-commerce platform. By offering comprehensive and well-structured data, the dashboard empowers stakeholders to make informed decisions regarding future actions and strategies.
 
